@@ -1,0 +1,13 @@
+{
+  "title": "¡Hola!",
+  "body": [
+    "Mi nombre es Eduardo Antonio Rangel Serrano y soy un desarrollador Full-Stack con 4 años de experiencia en el desarrollo de aplicaciones web y móviles. Me especializo en el uso de tecnologías como JavaScript, Node.js, React, PHP, Laravel, Python, Django, Flask, FastApi, para apps mobile con Java, Kotlin o React Native, y tengo una sólida comprensión de los principios de diseño y arquitectura de software.",
+    "He trabajado en proyectos de diferentes tamaños y complejidades, y estoy seguro de que puedo aportar mis habilidades y conocimientos a su empresa y contribuir al éxito de sus proyectos.",
+    "Recientemente he trabajado en la creación de una plataforma web para un restaurante que permitiera a los clientes consultar el menú y los precios, hacer pedidos y reservas. Conecté la plataforma a un backend en Python con Django y a una app de escritorio para facilitar la actualización de datos y mejorar la productividad del restaurante. Además, desarrollé una aplicación de escritorio para el mismo restaurante que se conectaba al backend Python de su web para añadir, actualizar y eliminar productos de la misma.",
+    "También trabajé en LySS, una empresa especializada en el desarrollo de páginas web y aplicaciones móviles, donde mis responsabilidades incluían crear páginas web y aplicaciones móviles a partir de ideas, orientar al cliente y al equipo de trabajo para llevar la idea del proyecto a la realidad, además de identificar y estructurar adecuadamente los apartados más complicados del diseño del cliente.",
+    "Además de mis proyectos laborales, también he trabajado en proyectos personales. Desarrollé una aplicación web que permite a los usuarios leer y organizar sus archivos Markdown por materia, lenguaje y etiqueta. La aplicación cuenta con un buscador de notas y está escrita en Next.js con TypeScript y estilizada con Sass con un estilo moderno.",
+    "Me encantaría tener la oportunidad de hablar más sobre mi experiencia y cómo puedo contribuir al éxito de sus proyectos. Si está interesado en conocer más acerca de mi trabajo, por favor no dude en contactarme a través de mi correo electrónico eduardoantonio72432@gmail.com o por teléfono al +52 5621836340."
+  ],
+  "farewell": "¡Gracias por su tiempo y consideración!, Saludos cordiales,",
+  "name": "Eduardo Antonio Rangel Serrano."
+}

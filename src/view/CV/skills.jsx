@@ -1,5 +1,5 @@
-import CV from "../assets/CV";
-import { LANG_CV } from "../web.config";
+import CV from "../../assets/CV";
+import { LANG_CV } from "../../web.config";
 
 /**
  * Componente que renderiza las habilidades

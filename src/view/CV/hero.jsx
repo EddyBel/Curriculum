@@ -1,12 +1,12 @@
-import CV from "../assets/CV";
+import CV from "../../assets/CV";
 import { FaLocationDot } from "react-icons/fa6";
 import { MdEmail } from "react-icons/md";
 import { FaPhone } from "react-icons/fa6";
 import { SiGithub } from "react-icons/si";
 import { FaLinkedin } from "react-icons/fa";
 import { IoPlanet } from "react-icons/io5";
-import { Cover, CoverImageShadow } from "../components/cover-image";
-import { COVER_SHADOW } from "../web.config";
+import { Cover, CoverImageShadow } from "../../components/cover-image";
+import { COVER_SHADOW } from "../../web.config";
 
 /**
  * Información y cover inicial del CV
