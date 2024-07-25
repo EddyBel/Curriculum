@@ -84,13 +84,13 @@ export function Hero() {
             ))}
           </div>
         </div>
-        <div className="m-auto">
+        {/* <div className="m-auto">
           {COVER_SHADOW ? (
             <CoverImageShadow url={image} />
           ) : (
             <Cover url={image} />
           )}
-        </div>
+        </div> */}
       </section>
       {/* Section Hero */}
     </>
