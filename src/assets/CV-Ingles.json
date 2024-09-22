@@ -4,7 +4,8 @@
     "label": "Full Stack Developer passionate about creating innovative products.",
     "image": "https://avatars.githubusercontent.com/u/111319309?v=4",
     "email": "eduardoantonio72432@gmail.com",
-    "phone": "+52 (55) 2183 6340",
+    "phone": "+52 (55) 7478 9357",
+    "phones": ["+52 (55) 7478 9357"],
     "url": "https://eddybel.netlify.app/home",
     "summary": "I am a Full-Stack developer with 3 years of experience in developing web and mobile applications. I have worked on projects of different sizes and complexities, and I have specialized in the use of technologies such as JavaScript, Node.js, React, PHP, Laravel, Python, Django, Flask, FastApi, for mobile apps with Java, Kotlin or React Native. Additionally, I have a solid understanding of software design and architecture principles. I am confident that I can contribute my skills and knowledge to your company and contribute to the success of your projects.",
     "location": {
