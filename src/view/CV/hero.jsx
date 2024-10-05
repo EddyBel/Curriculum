@@ -26,7 +26,7 @@ export function Hero() {
             {name}
           </h1>
           <p className="text-md font-mono text-neutral-950/80 text-center sm:text-start">
-            {label}
+           {label}
           </p>
           <a
             href={address}

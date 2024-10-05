@@ -7,7 +7,7 @@
     "phone": "+52 (55) 7478 9357",
     "phones": ["+52 (55) 7478 9357"],
     "url": "https://eddybel.netlify.app/home",
-    "summary": "Soy un programador Full-Stack con 3 años de experiencia en el desarrollo de aplicaciones web y móviles. He trabajado en proyectos de diferentes tamaños y complejidades, y me he especializado en el uso de tecnologías como JavaScript, Node.js, React, PHP, Laravel, Python, Django, Flask, FastApi, para apps mobile con Java, Kotlin o React Native. Además, tengo una sólida comprensión de los principios de diseño y arquitectura de software. Estoy seguro de que puedo aportar mis habilidades y conocimientos a su empresa y contribuir al éxito de sus proyectos.",
+    "summary": "Soy un programador Full-Stack con {{EXPERIENCE_IN_YEARS}} años de experiencia en el desarrollo de aplicaciones web y móviles. He trabajado en proyectos de diferentes tamaños y complejidades, y me he especializado en el uso de tecnologías como JavaScript, Node.js, React, PHP, Laravel, Python, Django, Flask, FastApi, para apps mobile con Java, Kotlin o React Native. Además, tengo una sólida comprensión de los principios de diseño y arquitectura de software. Estoy seguro de que puedo aportar mis habilidades y conocimientos a su empresa y contribuir al éxito de sus proyectos.",
     "location": {
       "address": "https://maps.app.goo.gl/DsTXsChu6qUnxV5K8",
       "postalCode": "56600",
