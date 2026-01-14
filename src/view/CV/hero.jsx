@@ -21,6 +21,7 @@ export function Hero() {
     <>
       {/* Section Hero */}
       <section className="flex flex-col-reverse items-center sm:flex-row sm:justify-between gap-4 ">
+        <img src={image} className="w-[200px] h-[200px] rounded-xl" />
         <div className="w-full max-w-[550px]">
           <h1 className="text-3xl sulphur-point-bold font-bold mb-2 text-center sm:text-start">
             {name}

@@ -1,0 +1,388 @@
+{
+    "basics": {
+      "name": "Eduardo Antonio Rangel Serrano",
+      "label": "Full Stack Developer apasionado en la creación de productos innovadores.",
+      "image": "/Perfil Prof.jpg",
+      "email": "eduardoantonio72432@gmail.com",
+      "phone": "+52 (55) 7478 9357",
+      "phones": ["+52 (55) 7478 9357"],
+      "url": "https://eddybel.netlify.app/home",
+      "summary": "Soy un programador Full-Stack con {{EXPERIENCE_IN_YEARS}} años de experiencia en el desarrollo de aplicaciones web y móviles. He trabajado en proyectos de diferentes tamaños y complejidades, y me he especializado en el uso de tecnologías como JavaScript, Node.js, React, PHP, Laravel, Python, Django, Flask, FastApi, para apps mobile con Java, Kotlin o React Native. Además, tengo una sólida comprensión de los principios de diseño y arquitectura de software. Estoy seguro de que puedo aportar mis habilidades y conocimientos a su empresa y contribuir al éxito de sus proyectos.",
+      "location": {
+        "address": "https://maps.app.goo.gl/DsTXsChu6qUnxV5K8",
+        "postalCode": "56600",
+        "city": "Ciudad de México",
+        "countryCode": "MX",
+        "region": "México"
+      },
+      "profiles": [
+        {
+          "network": "GitHub",
+          "username": "EddyBel",
+          "url": "https://github.com/EddyBel"
+        },
+        {
+          "network": "LinkedIn",
+          "username": "Eduardo Rangel",
+          "url": "https://www.linkedin.com/in/eduardo-rangel-eddybel/"
+        },
+        {
+          "network": "Web",
+          "username": "Eduardo Rangel",
+          "url": "https://eddybel.netlify.app/home"
+        }
+      ]
+    },
+    "work": [
+    {
+      "name": "Kental Systems",
+      "position": "Senior Full-Stack Developer",
+      "url": null,
+      "startDate": "Junio 2023",
+      "endDate": null,
+      "summary": "Trabajo actualmente en Kental Systems, una consultora de software, donde desempeño el rol de Senior Full-Stack Developer. Mis responsabilidades incluyen la supervisión técnica de proyectos, la definición de tiempos realistas de entrega, la coordinación con los equipos de desarrollo y la comunicación directa con los clientes para el levantamiento y análisis de requerimientos.",
+      "highlights": [
+        "Supervisión de proyectos",
+        "Gestión de tiempos de entrega",
+        "Levantamiento de requerimientos",
+        "Arquitectura de software"
+      ]
+    },
+    {
+      "name": "Independiente",
+      "position": "Web & Mobile Developer",
+      "url": null,
+      "startDate": "Diciembre 2022",
+      "endDate": null,
+      "summary": "Como Desarrollador móvil independiente, me dediqué a crear aplicaciones móviles para uso personal de cada cliente. Algunas de mis responsabilidades incluyeron desarrollar aplicaciones que permitieran a los clientes conectarse con sus páginas web u otros servicios y tener un resumen de sus intereses, gestionar sus ingresos y gastos de manera más específica a sus necesidades, organizar sus actividades y enviar correos automáticos a los contactos designados.",
+      "highlights": ["Started the company"]
+    },
+    {
+      "name": "LySs",
+      "position": "Web Full-Stack Developer",
+      "startDate": "Diciembre 2019",
+      "endDate": "Enero 2022",
+      "summary": "Trabaje en LySS una empresa especializada en el desarrollo de páginas web y aplicaciones móviles. Mis responsabilidades incluían crear software a partir de las ideas del cliente, orientando al cliente y al equipo de trabajo para llevar la idea del proyecto a la realidad, además de identificar y estructurar adecuadamente los apartados más complicados del diseño del cliente.",
+      "highlights": ["Started the company"]
+    }
+  ],
+  
+  "education": [
+    {
+        "institution": "Universidad Mexiquense del Bicentenario",
+        "url": "https://umb.edomex.gob.mx/",
+        "area": "Licenciado Informática Administrativa y Financiera",
+        "studyType": "Bachelor",
+        "startDate": "Septiembre 2023",
+        "endDate": null,
+        "score": "9.2",
+        "courses": ["DB1101 - Basic SQL"]
+      },
+    {
+      "institution": "Tecnológico de Estudios Superiores de Chalco",
+      "url": null,
+      "area": "Ingeniería en Sistemas Computacionales",
+      "studyType": "Engineering",
+      "startDate": "2020",
+      "endDate": "2023",
+      "score": null,
+      "courses": []
+    }
+  ],
+  
+    
+  "certificates": [
+    {
+      "name": "Validación del Programa de Estudios de Desarrollo de Software",
+      "date": "2022",
+      "issuer": "Harvard University",
+      "url": null
+    },
+    {
+      "name": "Escuela de Data Science e Inteligencia Artificial",
+      "date": "Abril 2022",
+      "issuer": "Platzi",
+      "url": null
+    },
+    {
+      "name": "Ciberseguridad",
+      "date": "Febrero 2023",
+      "issuer": "Google",
+      "url": null
+    },
+    {
+      "name": "Microsoft Certified: Azure Fundamentals",
+      "date": "Septiembre 2023",
+      "issuer": "Microsoft",
+      "url": null
+    }
+  ],
+  
+    "skills": [
+      {
+        "name": "HTML",
+        "level": "Master",
+        "keywords": ["Desarrollo Web", "Frontend"]
+      },
+      {
+        "name": "CSS",
+        "level": "Master",
+        "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
+      },
+      {
+        "name": "JavaScript",
+        "level": "Master",
+        "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
+      },
+      {
+        "name": "Java",
+        "level": "Avanzado",
+        "keywords": ["Desarrollo Web", "Backend"]
+      },
+      {
+        "name": "PHP",
+        "level": "Avanzado",
+        "keywords": ["Desarrollo Web", "Backend"]
+      },
+      {
+        "name": "Python",
+        "level": "Avanzado",
+        "keywords": ["Desarrollo Web", "Frontend", "Backend"]
+      },
+      {
+        "name": "Kotlin",
+        "level": "Avanzado",
+        "keywords": ["Desarrollo Web", "Frontend", "Backend"]
+      },
+      {
+        "name": "Lua",
+        "level": "Avanzado",
+        "keywords": ["Desarrollo Web", "Frontend", "Backend"]
+      },
+      {
+        "name": "TypeScript",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web",
+          "Frontend",
+          "Backend",
+          "JavaScript Superset"
+        ]
+      },
+      {
+        "name": "Tailwind",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web",
+          "Frontend",
+          "CSS Framework",
+          "Diseño Responsive"
+        ]
+      },
+      {
+        "name": "Node",
+        "level": "Avanzado",
+        "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
+      },
+      {
+        "name": "MySQL",
+        "level": "Avanzado",
+        "keywords": [
+          "Bases de Datos",
+          "SQL",
+          "Almacenamiento de Datos",
+          "Backend"
+        ]
+      },
+      {
+        "name": "MongoDB",
+        "level": "Avanzado",
+        "keywords": [
+          "Bases de Datos",
+          "SQL",
+          "Almacenamiento de Datos",
+          "Backend"
+        ]
+      },
+      {
+        "name": "FireBase",
+        "level": "Avanzado",
+        "keywords": [
+          "Bases de Datos",
+          "SQL",
+          "Almacenamiento de Datos",
+          "Backend"
+        ]
+      },
+      {
+        "name": "Git",
+        "level": "Avanzado",
+        "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
+      },
+      {
+        "name": "GitHub",
+        "level": "Avanzado",
+        "keywords": [
+          "Control de Versiones",
+          "Colaboración",
+          "Código Fuente",
+          "Git"
+        ]
+      },
+      {
+        "name": "Next.js",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web",
+          "Frontend",
+          "React Framework",
+          "SSR",
+          "Static Generation"
+        ]
+      },
+      {
+        "name": "React",
+        "level": "Avanzado",
+        "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+      },
+      {
+        "name": "Django",
+        "level": "Avanzado",
+        "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+      },
+      {
+        "name": "Flask",
+        "level": "Avanzado",
+        "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+      },
+      {
+        "name": "Rust",
+        "level": "Avanzado",
+        "keywords": ["Desarrollo Escritorio", "Backend", "Server", "UI"]
+      },
+      {
+        "name": "C++",
+        "level": "Avanzado",
+        "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+      },
+      {
+        "name": "Docker",
+        "level": "Avanzado",
+        "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+      }
+    ],
+  
+    "projects": [
+        {
+            "name": "LedgerFlow",
+            "isActive": true,
+            "description": "Software contable y administrativo propio con más de 70K descargas.",
+            "highlights": [
+              "Software contable",
+              "Autoalojable",
+              "Empresas",
+              "Freelancers",
+              "Administración financiera"
+            ],
+            "url": null,
+            "github": "https://github.com/LedgrFlow"
+          },
+        {
+          "name": "AssistAI",
+          "isActive": true,
+          "description": "Asistente Chatbot potenciado por Inteligencia Artificial.",
+          "highlights": [
+            "Machine learning",
+            "JavaScript",
+            "Python",
+            "Bot",
+            "OpenAI"
+          ],
+          "github": "https://github.com/EddyBel/AssistAI"
+        },
+        {
+          "name": "Plane Wars",
+          "isActive": true,
+          "description": "Videojuego con la capacidad de controlarlo usando el reconocimiento facial.",
+          "highlights": ["Python", "Machine learning", "Reconocimiento Facial"],
+          "url": null,
+          "github": "https://github.com/EddyBel/Plane-Wars-Game-Pygame"
+        },
+        {
+          "name": "Neovim.config",
+          "isActive": true,
+          "description": "Configuración de neovim para usar como IDE.",
+          "highlights": ["Lua", "Neovim", "Configuración", "IDE"],
+          "url": null,
+          "github": "https://github.com/EddyBel/Neovim.Config"
+        },
+        {
+          "name": "CodeChroma",
+          "isActive": true,
+          "description": "Librería para poder colorear texto markdown en la terminal.",
+          "highlights": ["Python", "Markdown", "Color", "Librería", "Pypi"],
+          "url": null,
+          "github": "https://github.com/EddyBel/CodeChroma"
+        },
+        {
+          "name": "TransLens",
+          "isActive": true,
+          "description": "Programa que permite reconocer texto del monitor usando IA.",
+          "highlights": ["Python", "PyTesseract", "IA", "Imagen", "Traductor"],
+          "url": null,
+          "github": "https://github.com/EddyBel/TransLens"
+        }
+      ],
+
+    "languages": [
+      {
+        "language": "Español",
+        "fluency": "Hablante nativo"
+      },
+      {
+        "language": "Ingles",
+        "fluency": "Intermedio"
+      }
+    ],
+    "interests": [
+      {
+        "name": "Wildlife",
+        "keywords": ["Ferrets", "Unicorns"]
+      }
+    ],
+    "references": [
+      {
+        "name": "Jane Doe",
+        "reference": "Reference…"
+      }
+    ],
+    "volunteer": [
+      {
+        "organization": "Organization",
+        "position": "Volunteer",
+        "url": "https://organization.com/",
+        "startDate": "2012-01-01",
+        "endDate": "2013-01-01",
+        "summary": "Description…",
+        "highlights": ["Awarded 'Volunteer of the Month'"]
+      }
+    ],
+    "publications": [
+      {
+        "name": "Publication",
+        "publisher": "Company",
+        "releaseDate": "2014-10-01",
+        "url": "https://publication.com",
+        "summary": "Description…"
+      }
+    ],
+    "awards": [
+      {
+        "title": "Award",
+        "date": "2014-11-01",
+        "awarder": "Company",
+        "summary": "There is no spoon."
+      }
+    ]
+  }
+  

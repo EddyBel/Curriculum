@@ -1,0 +1,429 @@
+{
+    "basics": {
+        "name": "Eduardo Antonio Rangel Serrano",
+        "label": "Full Stack Developer apasionado en la creación de productos innovadores.",
+        "image": "https://avatars.githubusercontent.com/u/111319309?v=4",
+        "email": "eduardorangelserrano18@gmail.com",
+        "phone": "+52 (55) 7478 9357",
+        "phones": [
+            "+52 (55) 7478 9357"
+        ],
+        "url": "https://eddybel.netlify.app/home",
+        "summary": "Soy un programador Full-Stack con {{EXPERIENCE_IN_YEARS}} años de experiencia en el desarrollo de aplicaciones web y móviles. He trabajado en proyectos de diferentes tamaños y complejidades, y me he especializado en el uso de tecnologías como JavaScript, Node.js, React, PHP, Laravel, Python, Django, Flask, FastApi, para apps mobile con Java, Kotlin o React Native. Además, tengo una sólida comprensión de los principios de diseño y arquitectura de software. Estoy seguro de que puedo aportar mis habilidades y conocimientos a su empresa y contribuir al éxito de sus proyectos.",
+        "location": {
+            "address": "https://maps.app.goo.gl/DsTXsChu6qUnxV5K8",
+            "postalCode": "56600",
+            "city": "Chalco, Estado de México",
+            "countryCode": "MX",
+            "region": "México"
+        },
+        "profiles": [
+            {
+                "network": "GitHub",
+                "username": "EddyBel",
+                "url": "https://github.com/EddyBel"
+            },
+            {
+                "network": "LinkedIn",
+                "username": "Eduardo Rangel",
+                "url": "https://www.linkedin.com/in/eduardo-rangel-eddybel/"
+            },
+            {
+                "network": "Web",
+                "username": "Eduardo Rangel",
+                "url": "https://eddybel.netlify.app/home"
+            }
+        ]
+    },
+    "work": [
+        {
+            "name": "Freelance",
+            "position": "Desarrollador de Sistemas Informáticos",
+            "startDate": "Enero 2021",
+            "endDate": null,
+            "summary": "Como profesional autónomo, me especialicé en la creación de sistemas informáticos diseñados para facilitar y potenciar la gestión interna de empresas de diversos sectores. Estos sistemas fueron desarrollados a medida para optimizar procesos clave, automatizar tareas repetitivas y establecer estándares eficientes que permitieran a las empresas crecer de manera sostenible. Mi enfoque como independiente fue ofrecer soluciones tecnológicas personalizadas, adaptadas a las necesidades específicas de cada cliente, contribuyendo a su organización y competitividad en el mercado.",
+            "highlights": [
+                "Automatización de procesos internos para mejorar la eficiencia operativa.",
+                "Desarrollo de herramientas que apoyan la toma de decisiones estratégicas."
+            ]
+        },
+        {
+            "name": "Freelance",
+            "position": "Desarrollador Web y Móvil",
+            "startDate": "Enero 2019",
+            "endDate": null,
+            "summary": "Desarrollo y diseño de páginas web y aplicaciones móviles a medida como profesional autónomo, ayudando a empresas y tiendas a impulsar su negocio y aumentar sus ventas mediante soluciones tecnológicas personalizadas. Me enfoqué en entender las necesidades específicas de cada cliente para crear plataformas funcionales, atractivas y optimizadas, integrando herramientas que fortalecieran su presencia digital y mejoraran la experiencia del usuario.",
+            "highlights": [
+                "Diseño y desarrollo de plataformas digitales personalizadas.",
+                "Implementación de soluciones tecnológicas para aumentar la visibilidad de los negocios en línea."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "Universidad Mexiquense del Bicentenario",
+            "url": "https://umb.edomex.gob.mx/",
+            "area": "Licenciado Informática Administrativa y Financiera",
+            "studyType": "Bachelor",
+            "startDate": "Septiembre 2023",
+            "endDate": null,
+            "score": "9.2",
+            "courses": [
+                "DB1101 - Basic SQL"
+            ]
+        }
+    ],
+    "certificates": [
+        {
+            "name": "Escuela de Desarrollo Web",
+            "date": "Enero 2022",
+            "issuer": "Platzi",
+            "url": null
+        },
+        {
+            "name": "Escuela de Data Science e Inteligencia Artificial",
+            "date": "Abril 2022",
+            "issuer": "Platzi",
+            "url": null
+        },
+        {
+            "name": "Ciberseguridad",
+            "date": "Febrero 2023",
+            "issuer": "Google",
+            "url": null
+        },
+        {
+            "name": "Microsoft Certified: Azure Fundamentals",
+            "date": "Septiembre 2023",
+            "issuer": "Microsoft",
+            "url": null
+        }
+    ],
+    "skills": [
+        {
+            "name": "HTML",
+            "level": "Master",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend"
+            ]
+        },
+        {
+            "name": "CSS",
+            "level": "Master",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "Diseño Responsive"
+            ]
+        },
+        {
+            "name": "JavaScript",
+            "level": "Master",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "Backend",
+                "Fullstack"
+            ]
+        },
+        {
+            "name": "Java",
+            "level": "Avanzado",
+            "keywords": [
+                "Desarrollo Web",
+                "Backend"
+            ]
+        },
+        {
+            "name": "PHP",
+            "level": "Avanzado",
+            "keywords": [
+                "Desarrollo Web",
+                "Backend"
+            ]
+        },
+        {
+            "name": "Python",
+            "level": "Avanzado",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "Backend"
+            ]
+        },
+        {
+            "name": "Kotlin",
+            "level": "Avanzado",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "Backend"
+            ]
+        },
+        {
+            "name": "Lua",
+            "level": "Avanzado",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "Backend"
+            ]
+        },
+        {
+            "name": "TypeScript",
+            "level": "Avanzado",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "Backend",
+                "JavaScript Superset"
+            ]
+        },
+        {
+            "name": "Tailwind",
+            "level": "Avanzado",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "CSS Framework",
+                "Diseño Responsive"
+            ]
+        },
+        {
+            "name": "Node",
+            "level": "Avanzado",
+            "keywords": [
+                "Desarrollo Web",
+                "Backend",
+                "JavaScript",
+                "Servidor"
+            ]
+        },
+        {
+            "name": "MySQL",
+            "level": "Avanzado",
+            "keywords": [
+                "Bases de Datos",
+                "SQL",
+                "Almacenamiento de Datos",
+                "Backend"
+            ]
+        },
+        {
+            "name": "MongoDB",
+            "level": "Avanzado",
+            "keywords": [
+                "Bases de Datos",
+                "SQL",
+                "Almacenamiento de Datos",
+                "Backend"
+            ]
+        },
+        {
+            "name": "FireBase",
+            "level": "Avanzado",
+            "keywords": [
+                "Bases de Datos",
+                "SQL",
+                "Almacenamiento de Datos",
+                "Backend"
+            ]
+        },
+        {
+            "name": "Git",
+            "level": "Avanzado",
+            "keywords": [
+                "Control de Versiones",
+                "Colaboración",
+                "Código Fuente"
+            ]
+        },
+        {
+            "name": "GitHub",
+            "level": "Avanzado",
+            "keywords": [
+                "Control de Versiones",
+                "Colaboración",
+                "Código Fuente",
+                "Git"
+            ]
+        },
+        {
+            "name": "Next.js",
+            "level": "Avanzado",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "React Framework",
+                "SSR",
+                "Static Generation"
+            ]
+        },
+        {
+            "name": "React",
+            "level": "Avanzado",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "JavaScript Library",
+                "UI"
+            ]
+        },
+        {
+            "name": "Django",
+            "level": "Avanzado",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "JavaScript Library",
+                "UI"
+            ]
+        },
+        {
+            "name": "Flask",
+            "level": "Avanzado",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "JavaScript Library",
+                "UI"
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "name": "AssistAI",
+            "isActive": true,
+            "description": "Asistente Chatbot potenciado por Inteligencia Artificial.",
+            "highlights": [
+                "Machine learning",
+                "JavaScript",
+                "Python",
+                "Bot",
+                "OpenAI"
+            ],
+            "github": "https://github.com/EddyBel/AssistAI"
+        },
+        {
+            "name": "Plane Wars",
+            "isActive": true,
+            "description": "Videojuego con la capacidad de controlarlo usando el reconocimiento facial.",
+            "highlights": [
+                "Python",
+                "Machine learning",
+                "Reconocimiento Facial"
+            ],
+            "url": null,
+            "github": "https://github.com/EddyBel/Plane-Wars-Game-Pygame"
+        },
+        {
+            "name": "Neovim.config",
+            "isActive": true,
+            "description": "Configuración de neovim para usar como IDE.",
+            "highlights": [
+                "Lua",
+                "Neovim",
+                "Configuración",
+                "IDE"
+            ],
+            "url": null,
+            "github": "https://github.com/EddyBel/Neovim.Config"
+        },
+        {
+            "name": "CodeChroma",
+            "isActive": true,
+            "description": "Librería para poder colorear texto markdown en la terminal.",
+            "highlights": [
+                "Python",
+                "Markdown",
+                "Color",
+                "Librería",
+                "Pypi"
+            ],
+            "url": null,
+            "github": "https://github.com/EddyBel/CodeChroma"
+        },
+        {
+            "name": "TransLens",
+            "isActive": true,
+            "description": "Programa que permite reconocer texto del monitor usando IA.",
+            "highlights": [
+                "Python",
+                "PyTesseract",
+                "IA",
+                "Imagen",
+                "Traductor"
+            ],
+            "url": null,
+            "github": "https://github.com/EddyBel/TransLens"
+        },
+        {
+            "name": "Notebook",
+            "description": "Página web para mostrar apuntes con markdown.",
+            "highlights": [
+                "Markdown",
+                "Web",
+                "NextJS",
+                "Typescript"
+            ],
+            "url": null,
+            "github": "https://github.com/EddyBel/Notebook"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "fluency": "Hablante nativo"
+        },
+        {
+            "language": "Ingles",
+            "fluency": "Intermedio"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Wildlife",
+            "keywords": [
+                "Ferrets",
+                "Unicorns"
+            ]
+        }
+    ],
+    "references": [
+        {
+            "name": "Jane Doe",
+            "reference": "Reference…"
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "Organization",
+            "position": "Volunteer",
+            "url": "https://organization.com/",
+            "startDate": "2012-01-01",
+            "endDate": "2013-01-01",
+            "summary": "Description…",
+            "highlights": [
+                "Awarded 'Volunteer of the Month'"
+            ]
+        }
+    ],
+    "publications": [
+        {
+            "name": "Publication",
+            "publisher": "Company",
+            "releaseDate": "2014-10-01",
+            "url": "https://publication.com",
+            "summary": "Description…"
+        }
+    ],
+    "awards": [
+        {
+            "title": "Award",
+            "date": "2014-11-01",
+            "awarder": "Company",
+            "summary": "There is no spoon."
+        }
+    ]
+}
